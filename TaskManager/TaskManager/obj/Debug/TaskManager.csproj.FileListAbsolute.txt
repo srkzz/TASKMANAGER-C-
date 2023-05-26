@@ -1,0 +1,12 @@
+C:\Users\srkz\Downloads\C#\TaskManager\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+C:\Users\srkz\Downloads\C#\TaskManager\obj\Debug\TaskManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\srkz\Downloads\C#\TaskManager\obj\Debug\TaskManager.Form1.resources
+C:\Users\srkz\Downloads\C#\TaskManager\obj\Debug\TaskManager.frmRunTask.resources
+C:\Users\srkz\Downloads\C#\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\srkz\Downloads\C#\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\srkz\Downloads\C#\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\srkz\Downloads\C#\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\srkz\Downloads\C#\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\srkz\Downloads\C#\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\srkz\Downloads\C#\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\srkz\Downloads\C#\TaskManager\obj\Debug\TaskManager.pdb
